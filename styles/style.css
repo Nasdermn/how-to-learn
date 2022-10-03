@@ -148,8 +148,9 @@
 }
 
 .table{
+  margin: 0;
   width: 1100px;
-  padding-top: 60px;
+  padding: 60px 0 0;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -313,13 +314,14 @@
   font-size: 18px;
   font-weight: normal;
   padding: 18px 0;
+  margin: 0;
 }
 
 .footer__column-heading{
   line-height: 30px;
   font-size: 18px;
   font-weight: 600;
-  margin-bottom: 20px;
+  margin:0 0 20px;
 }
 
 .footer__column-links{
@@ -336,9 +338,6 @@
   font-weight: normal;
   display: flex;
   align-items: center;
-}
-.footer__column-link:last-child{
-  margin: 0;
 }
 
 .footer__social-icon{

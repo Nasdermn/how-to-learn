@@ -1,0 +1,6 @@
+.resources{
+  background-color: #f2f2f2;
+  padding-top: 100px;
+  display: flex;
+  flex-direction: column;
+}

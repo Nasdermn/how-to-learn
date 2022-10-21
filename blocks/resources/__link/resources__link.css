@@ -1,0 +1,11 @@
+.resources__link{
+  transition-duration: .5s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-basis: 25%;
+}
+
+.resources__link:hover{
+  opacity: .5;
+}
